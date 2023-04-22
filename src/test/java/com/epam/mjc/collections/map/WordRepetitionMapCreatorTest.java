@@ -18,7 +18,7 @@ public class WordRepetitionMapCreatorTest {
                         Map.of()),
 
                 Arguments.of("FromSentenceWithoutRepetition",
-                        "Java Map can store pairs of keys and values.",
+                        "Java Map can store pairs of keys and values,",
                         Map.of("java", 1,
                                 "map", 1,
                                 "can", 1,
